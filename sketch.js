@@ -3,7 +3,7 @@ var canvas, backgroundImage;
 var questions;
 
 var question, contestant, quiz;
-
+var database
 
 function setup(){
   canvas = createCanvas(850,400);
